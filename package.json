@@ -1,6 +1,6 @@
 {
   "name": "nats-echo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Echo nats messages.",
   "main": "index.js",
   "bin": {

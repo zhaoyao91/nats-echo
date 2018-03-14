@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const NATS = require('nats')
 const args = require('node-args')
 const colors = require('colors')
