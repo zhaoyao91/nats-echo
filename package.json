@@ -1,0 +1,22 @@
+{
+  "name": "nats-echo",
+  "version": "1.0.0",
+  "description": "Echo nats messages.",
+  "main": "index.js",
+  "bin": {
+    "nats-echo": "index.js"
+  },
+  "keywords": [
+    "nats",
+    "echo"
+  ],
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "repository": "https://github.com/zhaoyao91/nats-echo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "nats": "^0.8.4",
+    "node-args": "^2.1.8",
+    "simple-json-logger": "^2.0.0"
+  }
+}
